@@ -1,0 +1,2 @@
+C:\Users\jlim\Documents\Learning Project\3. ASP.Net_Web_API_Rest_Learning\ExpenseTrackerApiExample\ExpenseTracker\ExpenseTracker.WebClient\obj\Debug\ExpenseTracker.WebClient.csproj.App.config
+C:\Users\jlim\Documents\Learning Project\3. ASP.Net_Web_API_Rest_Learning\ExpenseTrackerApiExample\ExpenseTracker\ExpenseTracker.WebClient\obj\Debug\ExpenseTracker.WebClient.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\jlim\documents\learning project\3. asp.net_web_api_rest_learning\expensetrackerapiexample\expensetracker\expensetracker.constants\bin\debug\expensetracker.constants.dll" HashGuid="12d513f5-4699-8f3d-20ec-439aede2ed34" />
+    <ReferenceAssembly PathName="c:\users\jlim\documents\learning project\3. asp.net_web_api_rest_learning\expensetrackerapiexample\expensetracker\expensetracker.dto\bin\debug\expensetracker.dto.dll" HashGuid="07f687da-3be5-a7b1-1212-5ead9480510c" />
+    <ReferenceAssembly PathName="c:\users\jlim\documents\learning project\3. asp.net_web_api_rest_learning\expensetrackerapiexample\expensetracker\packages\mvvmlightlibs.5.0.2.0\lib\wpa81\galasoft.mvvmlight.dll" HashGuid="da07be64-1093-25cd-c992-377d44b6dd02" />
+    <ReferenceAssembly PathName="c:\users\jlim\documents\learning project\3. asp.net_web_api_rest_learning\expensetrackerapiexample\expensetracker\packages\mvvmlightlibs.5.0.2.0\lib\wpa81\galasoft.mvvmlight.extras.dll" HashGuid="28bb2089-c7a4-73bb-7a72-1ea8b02698b0" />
+    <ReferenceAssembly PathName="c:\users\jlim\documents\learning project\3. asp.net_web_api_rest_learning\expensetrackerapiexample\expensetracker\packages\mvvmlightlibs.5.0.2.0\lib\wpa81\galasoft.mvvmlight.platform.dll" HashGuid="54c1f1ed-b921-337f-8ad6-f2d8c553df06" />
+    <ReferenceAssembly PathName="c:\users\jlim\documents\learning project\3. asp.net_web_api_rest_learning\expensetrackerapiexample\expensetracker\packages\marvin.httpcache.0.5.0\lib\portable-net45+win+wpa81\marvin.httpcache.dll" HashGuid="aa68ac53-0b06-e806-d481-be795d0e7d13" />
+    <ReferenceAssembly PathName="c:\users\jlim\documents\learning project\3. asp.net_web_api_rest_learning\expensetrackerapiexample\expensetracker\packages\marvin.jsonpatch.0.3.0.0\lib\portable-net40+win+wpa81\marvin.jsonpatch.dll" HashGuid="a5686209-979c-55fa-abf3-e859c8619d69" />
+    <ReferenceAssembly PathName="c:\users\jlim\documents\learning project\3. asp.net_web_api_rest_learning\expensetrackerapiexample\expensetracker\packages\commonservicelocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\microsoft.practices.servicelocation.dll" HashGuid="89de7f80-26d8-a17c-5ad9-b855f81ea5b2" />
+    <ReferenceAssembly PathName="c:\users\jlim\documents\learning project\3. asp.net_web_api_rest_learning\expensetrackerapiexample\expensetracker\packages\microsoft.bcl.immutable.1.0.34\lib\portable-net45+win8+wp8+wpa81\system.collections.immutable.dll" HashGuid="744c127f-427a-3cfd-9caf-16d8da5eea87" />
+    <ReferenceAssembly PathName="c:\program files (x86)\reference assemblies\microsoft\framework\v3.5\system.componentmodel.dataannotations.dll" HashGuid="fe4afa5f-74d6-dfa6-9ff3-0729afeccea1" />
+    <ReferenceAssembly PathName="c:\users\jlim\documents\learning project\3. asp.net_web_api_rest_learning\expensetrackerapiexample\expensetracker\packages\thinktecture.identitymodel.client.4.0.1\lib\portable-net45+wp80+win8+wpa81\thinktecture.identitymodel.client.dll" HashGuid="7c69e82d-9bf0-1a88-df83-ee83a70ddb31" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
